@@ -6,4 +6,4 @@ Caso deseje ver como é esse projeto, recomendo acessar o link</p>
 abaixo para ter acesso ao cartão.
 </h4>
 <h1>👇🏽</h1>
-<a href="https://thamiresribeiros.github.io/calculadora/">Cartão Virtual</a>
+<a href="https://thamiresribeiros.github.io/cartao-animado/">Cartão Virtual</a>
